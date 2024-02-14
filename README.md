@@ -1,14 +1,15 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaydulk&label=Profile%20views&color=0e75b6&style=flat" alt="obaydulk" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+ 
 
 <h1 align="">Hi 👋, I'm Obaydul Kuasha</h1>
-- 💬 Ask me about Developer** 
+💬 Ask me about Developer** 
+
 As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.
 
 
-- 💬 Ask me about Education**
+💬 Ask me about Education**
+
 Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering
 
 
@@ -18,12 +19,7 @@ Having successfully completed my diploma, I've embarked on an exciting academic 
 
 <h3>Where to find me & Hire</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obaydul.kuasha.1/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaydul_kuasha/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ObaydulKuasha)  
-[![Gmail Badg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaydul00000@gmail.com) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obaydul.kuasha.1/)[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaydul_kuasha/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ObaydulKuasha)  [![Gmail Badg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaydul00000@gmail.com) 
  
 <h3>Bangladeshi <img src=" " width="13"/>!</h3>
 
