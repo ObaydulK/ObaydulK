@@ -1,10 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Obaydul Kuasha</h1>
-<h3 align="center">A passionate React.js developer from Uttara,Dhaka, Bangladesh</h3>
+<h3 align="center">As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaydulk&label=Profile%20views&color=0e75b6&style=flat" alt="obaydulk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaydulk" alt="obaydulk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,7 +14,7 @@
 
 - ⚡ Fun fact **আমার দোস্তরা যখন ফেসবুকে বিভিন্ন ধরনের পোস্ট দেয়। তার টাইটেল গুলা চেঞ্জ করে। ওদেরকে স্ক্রিনশট দিয়ে ওইটা নিয়ে মজা করি।**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
