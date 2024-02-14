@@ -7,10 +7,14 @@
 
 
 <h1 align="">Hi 👋, I'm Obaydul Kuasha</h1>
-- 💬 Ask me about Developer** <h2 align="justify">As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.</h2>**
+- 💬 Ask me about Developer** 
+
+<h2 align="justify">As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.</h2>**
 
 
-- 💬 Ask me about Education**<h2 align="justify"> Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering <h2/>**
+- 💬 Ask me about Education**
+
+<h2 align="justify"> Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering <h2/> 
 
 
 <h3>Things I code with</h3>
@@ -57,7 +61,7 @@
 </table>
 
 
-<h3>Where to find me</h3>
+<h3>Where to find me & Hire</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obaydul.kuasha.1/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() 
@@ -66,21 +70,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ObaydulKuasha)  
 [![Gmail Badg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaydul00000@gmail.com) 
  
-
-
 <h3>Bangladeshi <img src=" " width="13"/>!</h3>
-
-
-
-
-
-- ⚡ Fun fact **আমার দোস্তরা যখন ফেসবুকে বিভিন্ন ধরনের পোস্ট দেয়। তার টাইটেল গুলা চেঞ্জ করে। ওদেরকে স্ক্রিনশট দিয়ে ওইটা নিয়ে মজা করি।**
-
-
-<p align="left">
-</p>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaydulk&show_icons=true&locale=en&layout=compact" alt="obaydulk" /></p>
 
