@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Education**
 
-<h2 align="justify"> Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering <h2/> 
+<h2 align="justify"> Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering <h2/>**
 
 
 <h3>Things I code with</h3>
@@ -41,7 +41,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href=" https://github.com/ObaydulK/Obaydul_Kuasha_Foods-Shop"><b>Obaydul_Kuasha_Foods-Shop </b></a></td>
+      <td><a href="https://github.com/ObaydulK/Obaydul_Kuasha_Foods-Shop"><b>Obaydul_Kuasha_Foods-Shop </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
