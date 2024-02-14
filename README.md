@@ -1,16 +1,18 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Obaydul Kuasha</h1>
-<h3 align="center">As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.</h3>
+<h1 align="">Hi 👋, I'm Obaydul Kuasha</h1>
+
+
+<h3 align="justify">As a Front-End Developer, I bring a versatile skill set and a passion for creating visually appealing, responsive, and intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I excel in transforming design concepts into seamless, functional websites. With experience in various front-end frameworks, including React.js, I have a solid understanding of component-based development and state management. I am dedicated to staying abreast of emerging web technologies, ensuring that the projects I contribute to are not only aesthetically pleasing but also optimized for performance and accessibility. Collaborative by nature, I thrive in team environments, consistently delivering innovative solutions that elevate the overall user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaydulk&label=Profile%20views&color=0e75b6&style=flat" alt="obaydulk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, Etc**
+
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **I am Obaydul. Currently I have completed my diploma. Now running computer science in B.Sc. World University of bangladesh. I am a fullstok developer I want to work as**
+- 💬 Ask me about **Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering**
 
 - ⚡ Fun fact **আমার দোস্তরা যখন ফেসবুকে বিভিন্ন ধরনের পোস্ট দেয়। তার টাইটেল গুলা চেঞ্জ করে। ওদেরকে স্ক্রিনশট দিয়ে ওইটা নিয়ে মজা করি।**
 
@@ -23,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaydulk&show_icons=true&locale=en&layout=compact" alt="obaydulk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaydulk&show_icons=true&locale=en" alt="obaydulk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaydulk&" alt="obaydulk" /></p>
+
+
