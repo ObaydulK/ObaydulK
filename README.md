@@ -15,7 +15,7 @@ Having successfully completed my diploma, I've embarked on an exciting academic 
 
 <h3>Where to find me & Hire</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/obaydul.kuasha.1/)[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/obaydul_kuasha/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ObaydulKuasha)  [![Gmail Badg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaydul00000@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Gmail Badg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaydul00000@gmail.com) 
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaydulk&show_icons=true&locale=en&layout=compact" alt="obaydulk" /></p>
