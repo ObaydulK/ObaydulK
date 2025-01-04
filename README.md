@@ -6,7 +6,7 @@
 ## About Me
 
 - 🔭 I’m currently working on...
-- 🌱 I’m currently learning...C
+- 🌱 I’m currently learning...Laravel
 - 👯 I’m looking to collaborate on...
 - 🥅 My goals are...
 - 💬 Ask me about...Having successfully completed my diploma, I've embarked on an exciting academic journey as a Bachelor's in Software Engineering (BSE) student. This transition represents not just a progression in my education but a commitment to in-depth learning and growth in the realm of software engineering. Armed with the practical knowledge gained during my diploma, I'm eager to delve into advanced concepts, collaborative projects, and emerging technologies. This shift to BSE is a pivotal step in realizing my aspirations, where I aim to contribute meaningfully to the tech landscape and harness my skills to address real-world challenges in the dynamic field of software engineering 
@@ -15,16 +15,10 @@
 - ⚡ Fun fact:...
 
 ## Skills
-
-- Programming languages:
-  - C
   - JavaScript
-  -...
-    
-- framework & llibrary:
-  - React.js
-  - Next.js
-  - Vui.js
+  - Laravel
+  - MySql
+  - React.js  
   - Mongodb
   - Firebase
   - Tailwind css
