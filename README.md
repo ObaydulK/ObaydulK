@@ -33,13 +33,6 @@
   - Vircel
   - Vs Code
   -...
-
-## Badges
-
-[![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
-[![Twitter followers](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/username)
-[![LinkedIn connections](https://img.shields.io/badge/LinkedIn-connections-blue)](https://linkedin.com/in/username)
- 
 ## Use Teachnology Report
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaydulk&show_icons=true&locale=en&layout=compact" alt="obaydulk" /></p>
@@ -47,23 +40,5 @@
 ![animated-gif](https://github.com/username/username/blob/master/assets/animated-gif.gif)
 
   -...
-
-
-  
-
-
-### Icons
-
-<div align="center">
-  <a href="https://github.com/username">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" height="20" />
-  </a>
-  <a href="https://twitter.com/username">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="20" height="20" />
-  </a>
-  <a href="https://linkedin.com/in/username">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20" height="20" />
-  </a>
-</div>
  
 
