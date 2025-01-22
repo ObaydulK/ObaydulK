@@ -39,14 +39,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/username?style=social)](https://github.com/username)
 [![Twitter followers](https://img.shields.io/twitter/follow/username?style=social)](https://twitter.com/username)
 [![LinkedIn connections](https://img.shields.io/badge/LinkedIn-connections-blue)](https://linkedin.com/in/username)
-
-## Projects
-
-Here are some of my projects:
-
-1. [Project 1](link-to-project-1) - Description of project 1.
-2. [Project 2](link-to-project-2) - Description of project 2.
-
  
 ## Use Teachnology Report
 
