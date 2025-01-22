@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaydulk&label=Profile%20views&color=0e75b6&style=flat" alt="obaydulk" /> </p>
  
-# Hi, I'm [Obaydul Kuasha] 👋
+# Hi, I'm [Obaydul Rahman Rifat] 👋
 
 ## About Me
 
