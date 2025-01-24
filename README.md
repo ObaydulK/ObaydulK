@@ -13,17 +13,11 @@
 
 
 ## Skills
-  - JavaScript  - Laravel  - MySql  - React.js   - Tailwind css
-  - Bootstarp
-  - Daysi Ui
-  - MatrailUi
+  - JavaScript  - Laravel  - MySql  - React.js   - Tailwind css  - Bootstarp  - Daysi Ui  - MatrailUi
   -...
-
-    
+  
 - Tools and technologies:
-  - Git
-  - Vircel
-  - Vs Code
+  - Git - Vs Code
   -...
 ## Use Teachnology Report
 
