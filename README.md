@@ -13,13 +13,7 @@
 
 
 ## Skills
-  - JavaScript
-  - Laravel
-  - MySql
-  - React.js  
-  - Mongodb
-  - Firebase
-  - Tailwind css
+  - JavaScript  - Laravel  - MySql  - React.js   - Tailwind css
   - Bootstarp
   - Daysi Ui
   - MatrailUi
