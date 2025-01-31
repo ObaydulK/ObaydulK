@@ -23,13 +23,15 @@ A Highly Motivated Junior Laravel Developer With A Solid Understanding Of PHP, M
 - FrontEnd Developer Certification — [Creative it Institute]
 
 ## PROJECT 
-Electronic Ecommerce
-- Brief description of the project, such as "Built a Electronic Ecommerce application to demonstrate CRUD functionality." 
-- Technologies Used: Laravel, MySQL, Tailwind, HyperUi, Livewire, Devdojo, etc 
+<h3>Fresh-Ecommerce</h3>
+<p>This is an e-commerce project. Admin panel and home panel. Product payment system connected. User login admin login. This is e-commerce no c-panel updated. Its video link is given on my LinkedIn ID so you can watch it" </p> 
+<h4>*Technologies Used: Laravel, MySQL, Tailwind, HyperUi, blade, Jetstream, etc.  </h4>
 
-Company Website(Cyber-Handed)
-- Brief description of the project, such as "Company Website application to demonstrate functionality." 
-- Technologies Used: Laravel, MySQL, Tailwind, HyperUi, etc Go to Cyber-Handed
+<h3>Company Website (Cyber-Handed)</h3>
+<p> Brief description of the project, such as "Company Website application to demonstrate functionality." </p>
+<h4>*Technologies Used: Laravel, MySQL, Tailwind, HyperUi,etc  </h4>
+Project GitHub – Cyber-Handed)
+
 ## Technical Skills
      PHP, Laravel, MySQL, RESTful APIs, OOP, Javascript, React.js, Bootstrap & Tailwind, Git, Postman
 
