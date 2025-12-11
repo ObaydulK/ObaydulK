@@ -2,10 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaydulk&label=Profile%20views&color=0e75b6&style=flat" alt="obaydulk" /> </p>
 
 <h1 align="center">Hi 👋, I'm OBAYDUR RAHMAN RIFAT</h1>
-<h3 align="center">Junior Laravel & React Problem Solver</h3>
-
-A Highly Motivated Junior Laravel Developer With A Solid Understanding Of PHP, MVC Architecture, And Laravel Framework. Proficient In Building And Maintaining Web Applications, Creating Restful Apis, And Managing Databases. Passionate About Clean, Efficient Coding And Eager To Learn And Grow In A Collaborative Team Environment. Skilled In Debugging And Problem-Solving.
-
+ 
 ## EDUCATION
 <h3> Bsc In Computer Science Engineering (3.32 Out Of 4) </h3>
 <div> WORLD UNIVERSITY OF BANGLADESH, Uttara Dhaka.</div>
