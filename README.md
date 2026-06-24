@@ -9,7 +9,6 @@
 
 ### Programming
 - Python
-- C++
 - SQL
 
 ### Data Science
